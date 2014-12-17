@@ -4,5 +4,6 @@ public class a{
 
 		System.out.println("hank");
 		hank
+		aa
 	}
 }
